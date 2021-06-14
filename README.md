@@ -1,4 +1,4 @@
-An API that will return random Film Names.
+An API that will return random Film Names 📽‍️🎞‍️
 
 
 ## Usage:
@@ -18,14 +18,14 @@ This Project Is Made Possible With [Heroku](https://dashboard.heroku.com/)
 + App starts at port 5000 by default, but can be configured with a `.env` file. 
 
 ## Example:
-+  returns:
++  returns: ⬇️
 ```JSON
 [
     {"Movie_Name" : "Iron Man"}
 ]
 ```
 
-+  returns:
++  returns: ⬇️
 ```JSON
 [
   {"Movie_Name" : "Harrypotter"},
