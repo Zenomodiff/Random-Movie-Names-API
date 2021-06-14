@@ -1,4 +1,4 @@
-An API that will return random film  names.
+An API that will return random Film Names.
 
 
 ## Usage:
