@@ -13,7 +13,7 @@ with open("data.json") as json_file:
 
 @app.route('/')
 def home():
-    return '''<h1>Welcome to Movie Names API</h1> <a href="https://sreeramzeno.github.io/Movie-Names-API" target="blank">Documentation</a>'''
+    return '''<h1>Welcome to Movie Names API</h1> <a href="https://github.com/Zenomodiff/Movie-Names-Api" target="blank">Documentation</a>'''
 
 
 @app.route('/api/v1/resources/movies/all', methods=['GET'])
