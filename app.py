@@ -26,7 +26,7 @@ def page_not_found(e):
     return "<h1>Error 404:</1><p>The resource could not be found. Please check your query</p>", 404
 
 
-@app.route('/api/v1/resources/movies', methods=['GET'])
+@app.route('https://movie-names-api.herokuapp.com/', methods=['GET'])
 def api_number():
     results = []
     if 'number' in flask.request.args:
