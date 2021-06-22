@@ -11,7 +11,7 @@ An API that will return random Film Names 📽‍️🎞‍️
 
 This Project Is Made Possible With [Heroku](https://dashboard.heroku.com/)
 
-## Rebuild the project:
+## Rebuild the project :
 + Clone the repo.
 + Run `python3 -m venv .env` to create a virtual environment.
 + Run `source .env/bin/activate` to activate the virtual environment.
