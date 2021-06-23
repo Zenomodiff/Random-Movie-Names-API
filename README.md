@@ -22,7 +22,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ `https://Movie-Names-api.herokuapp.com/api/Food-Names?number=1` returns: ↓
++ `https://movie-names-api.herokuapp.com/api/Movie-Names?number=1` returns: ↓
 ```JSON
 [
   {
@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ `https://Movie-Names-api.herokuapp.com/api/Food-Names?number=2` returns: ↓
++ `https://movie-names-api.herokuapp.com/api/Movie-Names?number=2` returns: ↓
 ```JSON
 [
   {
