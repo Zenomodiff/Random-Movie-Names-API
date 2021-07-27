@@ -99,6 +99,6 @@
   {"Movie_Name" : "Home Alone", "Link" : "/Images/ironman.jpg", "rating": "★★★★"},
   {"Movie_Name" : "Singin' in the Rain", "Link" : "/Images/ironman.jpg", "rating": "★★★★"},
   {"Movie_Name" : "The Sound of Music", "Link" : "/Images/ironman.jpg", "rating": "★★★★"},
-  {"Movie_Name" : "La La Land", "Link" : "/Images/ironman.jpg"}  
+  {"Movie_Name" : "La La Land", "Link" : "/Images/ironman.jpg", "rating": "★★★★"}
   
 ]
