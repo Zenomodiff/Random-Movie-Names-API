@@ -1,12 +1,12 @@
 [
 
   {"Movie_Name" : "Iron Man", "Link" : "/Images/ironman.jpg"},
-  {"Movie_Name" : "Conjuring""Link" : "/Images/conjuring.jpg"},
-  {"Movie_Name" : "Nun""Link" : "/Images/nun.jpg"},
-  {"Movie_Name" : "Fast & Furious""Link" : "/Images/fast_furious.jpg"},
-  {"Movie_Name" : "Harrypotter""Link" : "/Images/harrypotter.jpg"},
-  {"Movie_Name" : "Batman""Link" : "/Images/batman.jpg"},
-  {"Movie_Name" : "Titanic""Link" : "/Images/titanic.jpg"},
+  {"Movie_Name" : "Conjuring" "Link" : "/Images/conjuring.jpg"},
+  {"Movie_Name" : "Nun" "Link" : "/Images/nun.jpg"},
+  {"Movie_Name" : "Fast & Furious" "Link" : "/Images/fast_furious.jpg"},
+  {"Movie_Name" : "Harrypotter" "Link" : "/Images/harrypotter.jpg"},
+  {"Movie_Name" : "Batman" "Link" : "/Images/batman.jpg"},
+  {"Movie_Name" : "Titanic" "Link" : "/Images/titanic.jpg"},
   {"Movie_Name" : "God Father""Link" : "/Images/god_father.jpg"},
   {"Movie_Name" : "Mr Bean""Link" : "/Images/mr_bean.jpg"},
   {"Movie_Name" : "Inseption""Link" : "/Images/inseption.jpg"},
