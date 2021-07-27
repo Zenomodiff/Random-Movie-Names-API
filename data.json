@@ -1,7 +1,7 @@
 [
 
   {"Movie_Name" : "Iron Man", "Link" : "/Images/ironman.jpg"},
-  {"Movie_Name" : "Conjuring" "Link" : "/Images/conjuring.jpg"},
+  {"Movie_Name" : "Conjuring", "Link" : "/Images/conjuring.jpg"},
   {"Movie_Name" : "Nun" "Link" : "/Images/nun.jpg"},
   {"Movie_Name" : "Fast & Furious" "Link" : "/Images/fast_furious.jpg"},
   {"Movie_Name" : "Harrypotter" "Link" : "/Images/harrypotter.jpg"},
