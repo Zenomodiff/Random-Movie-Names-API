@@ -39,43 +39,43 @@
   {"Movie_Name" : "The Deer Hunter", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1978"},
   {"Movie_Name" : "Close Encounters of the Third Kind", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐", "Year": "1997"},
   {"Movie_Name" : "Up", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2009"},
-  {"Movie_Name" : "Rocky", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Memento", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Braveheart", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Slumdog Millionaire", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "The Lord of the Rings: The Return of the King", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Beauty and the Beast", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Seven", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Inception", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Die Hard", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "The Lord of the Rings: The Fellowship of the Ring", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
-  {"Movie_Name" : "Amadeus", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "On the Waterfront", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "Wall-E", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "12 Angry Men", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "Ghostbusters", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "Brokeback Mountain", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "The Bridge on the River Kwai", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Blazing Saddles", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "All the President's Men", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Young Frankenstein", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Almost Famous", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Vertigo", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Monty Python and The Holy Grail", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Avatar", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "The Lion King", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Raging Bull", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Mary Poppins", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Groundhog Day", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "North by Northwest", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "West Side Story", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Amelie", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Eternal Sunshine of the Spotless Mind", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Taxi Driver", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Butch Cassidy and the Sundance Kid", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "Good Will Hunting", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "All About Eve", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "The Big Lebowski", "Link" : "/Images/ironman.jpg", "rating": ""
+  {"Movie_Name" : "Rocky", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1976"},
+  {"Movie_Name" : "Memento", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2000"},
+  {"Movie_Name" : "Braveheart", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1995"},
+  {"Movie_Name" : "Slumdog Millionaire", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2008"},
+  {"Movie_Name" : "The Lord of the Rings: The Return of the King", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2003"},
+  {"Movie_Name" : "Beauty and the Beast", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐", "Year": "2017"},
+  {"Movie_Name" : "Seven", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1995"},
+  {"Movie_Name" : "Evil Dead", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1981"},
+  {"Movie_Name" : "Die Hard", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1988"},
+  {"Movie_Name" : "The Lord of the Rings: The Fellowship of the Ring", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2001"},
+  {"Movie_Name" : "Amadeus", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1984"},
+  {"Movie_Name" : "On the Waterfront", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1954"},
+  {"Movie_Name" : "Wall-E", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2008"},
+  {"Movie_Name" : "12 Angry Men", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐⭐", "Year": "1957"},
+  {"Movie_Name" : "Ghostbusters", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1984"},
+  {"Movie_Name" : "Brokeback Mountain", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
+  {"Movie_Name" : "The Bridge on the River Kwai", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
+  {"Movie_Name" : "Blazing Saddles", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "All the President's Men", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Young Frankenstein", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Almost Famous", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Vertigo", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Monty Python and The Holy Grail", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Avatar", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "The Lion King", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Raging Bull", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Mary Poppins", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Groundhog Day", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "North by Northwest", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "West Side Story", "Link" : "/Images/ironman.jpg", "rating": "⭐"},
+  {"Movie_Name" : "Amelie", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "Eternal Sunshine of the Spotless Mind", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "Taxi Driver", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "Butch Cassidy and the Sundance Kid", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "Good Will Hunting", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "All About Eve", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "The Big Lebowski", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
   {"Movie_Name" : "Jurassic Park", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
   {"Movie_Name" : "Rear Window", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
   {"Movie_Name" : "The Usual Suspects", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
@@ -91,14 +91,14 @@
   {"Movie_Name" : "A Clockwork Orange", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
   {"Movie_Name" : "American Beauty", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
   {"Movie_Name" : "Fargo", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "The Empire Strikes Back", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "The Princess Bride", "Link" : "/Images/ironman.jpg", "rating": ""},
-  {"Movie_Name" : "One Flew Over the Cuckoo's Nest", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "Blade Runner", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "The Breakfast Club", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "Home Alone", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "Singin' in the Rain", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "The Sound of Music", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""},
-  {"Movie_Name" : "La La Land", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "The Empire Strikes Back", "Link" : "/Images/ironman.jpg", "rating": "", "Year": ""}
+  {"Movie_Name" : "The Princess Bride", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""}
+  {"Movie_Name" : "One Flew Over the Cuckoo's Nest", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
+  {"Movie_Name" : "Blade Runner", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
+  {"Movie_Name" : "The Breakfast Club", "Link" : "/Images/ironman.jpg", "rating": "⭐", "Year": ""},
+  {"Movie_Name" : "Home Alone", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1990"},
+  {"Movie_Name" : "Singin' in the Rain", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1952"},
+  {"Movie_Name" : "The Sound of Music", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "1965"},
+  {"Movie_Name" : "La La Land", "Link" : "/Images/ironman.jpg", "rating": "⭐⭐⭐⭐", "Year": "2016"}
   
 ]
