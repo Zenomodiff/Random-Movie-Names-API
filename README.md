@@ -10,7 +10,7 @@
 + Change `all` to parameter `?number=` to specify the number of Movie Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Movie Name you are targeting.
 
-This project is hosted by [Heroku](https://www.heroku.com/)
+This project is hosted on [Heroku](https://www.heroku.com/)
 
 ## Rebuild the project:
 + Clone the repo.
