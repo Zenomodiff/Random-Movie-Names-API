@@ -5,8 +5,8 @@
 
 ## Usage:
 
-+ `https://movie-names-api.herokuapp.com` to get the documentation.
-+ `https://movie-names-api.herokuapp.com/api/Movie-Names/all` to get all the Movie Names at once.
++ ### [`https://movie-names-api.herokuapp.com`](https://movie-names-api.herokuapp.com) to get the documentation.
++ ###[`https://movie-names-api.herokuapp.com/api/Movie-Names/all`](https://movie-names-api.herokuapp.com/api/Movie-Names/all) to get all the Movie Names at once.
 + Change `all` to parameter `?number=` to specify the number of Movie Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Movie Name you are targeting.
 
@@ -22,7 +22,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ `https://movie-names-api.herokuapp.com/api/Movie-Names?number=1` returns: ↓
++ ### [`https://movie-names-api.herokuapp.com/api/Movie-Names?number=1`](https://movie-names-api.herokuapp.com/api/Movie-Names?number=1) returns: ↓
 ```JSON
 [
   {
@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ `https://movie-names-api.herokuapp.com/api/Movie-Names?number=2` returns: ↓
++ ### [`https://movie-names-api.herokuapp.com/api/Movie-Names?number=2`](https://movie-names-api.herokuapp.com/api/Movie-Names?number=2) returns: ↓
 ```JSON
 [
   {
