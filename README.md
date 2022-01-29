@@ -1,4 +1,4 @@
-# Movie Names API 🎞️📽️🎬📼
+# Random-Movie-Names-API 🎞️📽️🎬📼
 
 + An API that will return random Movie Names 💽📹🎦
 + Dedicated To All Movie Lovers ❤️
